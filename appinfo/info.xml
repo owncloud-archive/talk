@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<info>
+    <id>talk</id>
+    <name>Talk</name>
+	<description>Video/Audio talk based on Spreed-WebRTC</description>
+    <licence>AGPL</licence>
+    <author>Vincent Petry</author>
+    <version>0.0.1</version>
+    <requiremin>7.0.0</requiremin>
+</info>
